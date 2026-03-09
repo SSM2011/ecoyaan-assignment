@@ -1,6 +1,6 @@
 # 🌿 Ecoyaan Checkout
 
-A production-ready, simplified e-commerce checkout flow built with **Next.js 15**, **React 19**, **Tailwind CSS**, and **Zustand** — inspired by Ecoyaan's sustainable shopping experience.
+A production-ready, simplified e-commerce checkout flow built with **Next.js 16**, **React 19**, **Tailwind CSS**, and **Zustand** — inspired by Ecoyaan's sustainable shopping experience.
 
 ---
 
