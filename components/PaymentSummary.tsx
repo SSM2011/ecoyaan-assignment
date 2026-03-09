@@ -4,7 +4,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import type { CartItem, ShippingAddress } from "@/types";
 import { calculateOrderSummary, formatCurrency } from "@/lib/utils";
-import { useCheckoutStore, useProcessPayment } from "@/context/CheckoutContext";
+import { useProcessPayment } from "@/context/CheckoutContext";
 
 interface PaymentSummaryProps {
   cartItems: CartItem[];
